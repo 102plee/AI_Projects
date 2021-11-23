@@ -5,4 +5,5 @@ Currently available is a project that detects edges using openCV for Python base
 ## Edge Detection
 
 Run command: ```python main.py```
+
 Install requirements with: ```pip install -r requirements.txt```
